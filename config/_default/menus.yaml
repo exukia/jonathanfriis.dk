@@ -1,0 +1,16 @@
+main:
+  - name: "filosofi"
+    url: "/filosofi/"
+    weight: 1
+
+  - name: "teknologi"
+    url: "/teknologi/"
+    weight: 2
+
+  - name: "kultur"
+    url: "/kultur/"
+    weight: 3
+
+  - name: "om siden"
+    url: "/om-siden/"
+    weight: 4

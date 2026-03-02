@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Jonathans Hjørne</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Jonathans Hjørne</description>
+    <generator>Hugo -- 0.155.3</generator>
+    <language>da-DK</language>
+    <lastBuildDate>Sun, 08 Feb 2026 22:02:20 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/posts/about/</link>
+      <pubDate>Sun, 08 Feb 2026 22:02:20 +0100</pubDate>
+      <guid>http://localhost:1313/posts/about/</guid>
+      <description>&lt;p&gt;Det her er min blog, det er mest bare for sjov, men hvis du finder det jeg skriver spændende, så er det jo en sejr. Jeg lægger løbende opslag op om filosofi, teknologi og livet som menig studerende i Aarhus.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

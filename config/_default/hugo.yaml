@@ -1,0 +1,35 @@
+baseURL: 'http://localhost:1313/'
+languageCode: 'da-DK'
+title: 'Jonathans Hjørne'
+theme: 'PaperMod'
+
+# For at kunne tilføje HTML billeder direkte, brugt på forsiden:)
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+params:
+  ShowBreadCrumbs: true
+  assets.theme_color: "#ffe4e1"
+  disableAnchoredHeadings: false
+  profileMode:
+    enabled: true
+    title: "Jonathans Hjørne" # optional default will be site title
+    subtitle: "Et sted for humanistisk pladder og teknologisk nørderi"
+    imageUrl: "images/me.png" # optional
+    imageTitle: "pis og papir" # optional
+    imageWidth: 200 # custom size
+    imageHeight: 200 # custom size
+    defualtTheme: auto # Automatically shift theme depending on system
+    buttons:
+      - name: Archives
+        url: "/archives"
+      - name: Github
+        url: "https://github.com/"
+
+  socialIcons: # optional
+    - name: "<platform>"
+      url: "<link>"
+    - name: "<platform 2>"
+      url: "<link2>"
