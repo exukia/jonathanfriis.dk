@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/jonathanfriis.dk/filosofi/induktion-og-induktiv-risiko/</loc>
+    <loc>http://localhost:1313/filosofi/induktion-og-induktiv-risiko/</loc>
   </url><url>
-    <loc>http://localhost:1313/jonathanfriis.dk/archives/</loc>
+    <loc>http://localhost:1313/archives/</loc>
   </url><url>
-    <loc>http://localhost:1313/jonathanfriis.dk/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/jonathanfriis.dk/filosofi/</loc>
+    <loc>http://localhost:1313/filosofi/</loc>
   </url><url>
-    <loc>http://localhost:1313/jonathanfriis.dk/</loc>
+    <loc>http://localhost:1313/</loc>
   </url><url>
-    <loc>http://localhost:1313/jonathanfriis.dk/kultur/</loc>
+    <loc>http://localhost:1313/kultur/</loc>
   </url><url>
-    <loc>http://localhost:1313/jonathanfriis.dk/om-siden/</loc>
+    <loc>http://localhost:1313/om-siden/</loc>
   </url><url>
-    <loc>http://localhost:1313/jonathanfriis.dk/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/jonathanfriis.dk/teknologi/</loc>
+    <loc>http://localhost:1313/teknologi/</loc>
   </url>
 </urlset>
