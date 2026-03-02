@@ -1,4 +1,4 @@
-baseURL: 'https://jonathanfriis.github.io/'
+baseURL: 'https://exukia.github.io/jonathanfiis'
 languageCode: 'da-DK'
 title: 'Jonathans Hjørne'
 theme: 'PaperMod'
@@ -8,6 +8,9 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+
+Pagination:
+  pagerSize: 20
 
 caches:
   images:
