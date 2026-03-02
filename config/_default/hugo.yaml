@@ -2,16 +2,16 @@ baseURL: 'https://jonathanfriis.github.io/'
 languageCode: 'da-DK'
 title: 'Jonathans Hjørne'
 theme: 'PaperMod'
-paginate: 10
-disableKinds:
-  - taxonomy
-  - taxonomyTerm
 
 # For at kunne tilføje HTML billeder direkte, brugt på forsiden:)
 markup:
   goldmark:
     renderer:
       unsafe: true
+
+caches:
+  images:
+    dir: :cacheDir/images
 
 params:
   ShowBreadCrumbs: true
