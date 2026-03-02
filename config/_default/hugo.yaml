@@ -17,6 +17,7 @@ caches:
     dir: :cacheDir/images
 
 params:
+  author: "Exukia"
   ShowBreadCrumbs: true
   assets.theme_color: "#ffe4e1"
   disableAnchoredHeadings: false
