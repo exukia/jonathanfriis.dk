@@ -1,46 +1,28 @@
-
-name: Build and Deploy Hugo Site
+name: GitHub Pages Hugo Deployment
 
 on:
   push:
     branches:
-      - main  # triggers on pushes to main
+      - main  # deploy when main branch is updated
 
 jobs:
-  build:
+  build-deploy:
     runs-on: ubuntu-latest
 
-    # Cache configuration
-    caches:
-      images:
-        dir: :cacheDir/images
-
     steps:
-      # 1️⃣ Checkout the repository and submodules
-      - name: Checkout Repository
-        uses: actions/checkout@v3
-        with:
-          submodules: true  # important for PaperMod theme
+      - uses: actions/checkout@v3
 
-      # 2️⃣ Setup Hugo Extended version
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: '0.111.3'  # latest extended version
-          extended: true
+          hugo-version: '0.125.0' # or your Hugo version
 
-      # 3️⃣ Install Hugo modules (if any)
-      - name: Install Hugo Modules
-        run: hugo mod get
-
-      # 4️⃣ Build the site
       - name: Build
-        run: hugo -D
+        run: hugo --minify
 
-      # 5️⃣ Deploy to GitHub Pages
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v4
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v5
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
-          # Optional: branch: gh-pages  # default is gh-pages
+          destination_dir: docs

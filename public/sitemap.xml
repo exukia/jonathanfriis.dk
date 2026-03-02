@@ -6,8 +6,6 @@
   </url><url>
     <loc>http://localhost:1313/archives/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-  </url><url>
     <loc>http://localhost:1313/filosofi/</loc>
   </url><url>
     <loc>http://localhost:1313/</loc>
@@ -15,8 +13,6 @@
     <loc>http://localhost:1313/kultur/</loc>
   </url><url>
     <loc>http://localhost:1313/om-siden/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
   </url><url>
     <loc>http://localhost:1313/teknologi/</loc>
   </url>
