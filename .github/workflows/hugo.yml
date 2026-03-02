@@ -32,6 +32,10 @@ jobs:
     runs-on: ubuntu-latest
     env:
       HUGO_VERSION: 0.128.0
+    caches:
+      images:
+        dir: :cacheDir/images
+    
     steps:
       - name: Install Hugo CLI
         run: |
