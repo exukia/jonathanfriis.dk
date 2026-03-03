@@ -11,6 +11,10 @@ main:
     url: "/kultur/"
     weight: 3
 
+  - name: "dagbog"
+    url: "/dagbog/"
+    weight: 4
+
   - name: "om siden"
     url: "/om-siden/"
-    weight: 4
+    weight: 5
