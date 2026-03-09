@@ -31,10 +31,10 @@ params:
     imageHeight: 200 # custom size
     defualtTheme: auto # Automatically shift theme depending on system
     buttons:
-      - name: Archives
+      - name: archives
         url: "/archives"
       - name: Github
-        url: "https://github.com/"
+        url: "https://github.com/exukia/"
 
   socialIcons: # optional
     - name: "<platform>"

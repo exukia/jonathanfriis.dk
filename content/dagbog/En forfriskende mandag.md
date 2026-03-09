@@ -2,7 +2,7 @@
 Draft: "false"
 Title: En forfriskende mandag
 Author: Jonathan
-Description: Efter en lang og alkoholfyldt weekend trængte Jonathan til en mandag med øl
+Description: En hyggelig dag på RisRas
 Weight:
 Date: 2026-03-03
 cover:
@@ -14,4 +14,4 @@ Jeg startede dagen med en kop kaffe, lidt lir og en cigaret. Derefter gik turen 
 
 På RisRas filliongongong tegnede Sofie en flot tegning af mig, som jeg har taget med hjem og vil indramme.
 
-Jeg tog hjem kl. 19 og spiste chili sin carne og gamede. Jeg sov kl. 1
+Jeg tog hjem kl. 19 og spiste chili sin carne og gamede.
