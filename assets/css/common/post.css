@@ -1,0 +1,18 @@
+/* Paragraphs */
+.post-single .post-content p,
+.list .post-content,
+.entry-content p {
+  text-align: justify;
+  text-justify: inter-word;
+  hyphens: auto;
+  line-height: 1.7;
+  margin: 1em 0;
+}
+
+/* BLOCK QUOTES */
+.post-single .block-quote,
+.list .block-quote {
+  margin: 1.2em 0;
+  padding-left: 3em;
+  font-style: italic;
+}

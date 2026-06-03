@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>teknologi on Jonathans Hjørne</title>
+    <link>http://localhost:1313/teknologi/</link>
+    <description>Recent content in teknologi on Jonathans Hjørne</description>
+    <generator>Hugo -- 0.155.3</generator>
+    <language>da-DK</language>
+    <lastBuildDate>Wed, 03 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/teknologi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Et gevær i hånden</title>
+      <link>http://localhost:1313/teknologi/arch-linux-oplevelsen/</link>
+      <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teknologi/arch-linux-oplevelsen/</guid>
+      <description>&lt;p&gt;På 7 time, efter 2 geninstallationer, 1 forkert partition, 3 forskellige youtube tutorials, ca. 20 fejlskrevne kommandoer, 1 glad filosof, og en terminal der venter på næste kommando.&lt;/p&gt;
+&lt;p&gt;Jeg har det sidste stykke tid arbejdet på at frigøre mig fra de store tech virksomheder, indtil videre har det resulteret i at jeg har mit eget email domæne, jeg har afinstalleret office pakken, jeg har minimeret mit forbrug af sociale medier, og derudover købt en ny computer som jeg gav mig i færd med at installere linux på.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
