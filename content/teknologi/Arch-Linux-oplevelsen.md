@@ -15,7 +15,7 @@ Jeg har det sidste stykke tid arbejdet på at frigøre mig fra de store tech vir
 
 Jeg valgte selvfølgelig den linux distribution der positionerer sig med frihed, ansvar og minimalisme[^2] - det var det nemmeste valg.
 
-Styresystemet i sig selv betyder ikke at du kan bruge din computer, derefter skal du hente og konfigurere resten selv, så banalt som det lyder skal du selv hente en network manager, notifikations manger, file explorer, boot manager, font, autentifikations agent osv. Det betyder, at du ikke har et reelt system, kun arkitekturen som understøtter det.
+Styresystemet i sig selv betyder ikke at du kan bruge din computer, du skal også hente og konfigurere utallige ting selv, så banalt som det lyder skal du selv hente en network manager, notifikations manager, file explorer, boot manager, font, autentifikations agent osv. Det betyder, at du ikke har et reelt system, kun arkitekturen som understøtter det.
 
 Windows spørger dig om du er sikker, når du vil slette en fil. Arch spørger dig ikke om noget som helst. Du skriver kommandoen, du trykker enter, og det sker. Vil du slette hele dit styresystem? Du skal ikke sige det to gange. Du har fået et gevær i hånden, du må skyde hvorhen du har lyst, det er dit ansvar at sigte rigtigt.
 

@@ -10,7 +10,7 @@ cover:
   alt: "Jonathan Risras"
   hiddenInSingle: true
 ---
-Jeg startede dagen med en kop kaffe, lidt lir og en cigaret. Derefter gik turen mod Risras filliongongong hvor jeg og min søde kæreste gik hen. Der sad jeg i 3 timer, mens jeg arbejdede på min blog og bundede øl.
+Jeg startede dagen med en kop kaffe, lidt lir og en cigaret. Derefter gik turen mod Risras filliongongong hvor jeg og min søde kæreste gik hen. Der sad jeg i 3 timer, mens jeg arbejdede på min blog og nød en øl.
 
 På RisRas filliongongong tegnede Sofie en flot tegning af mig, som jeg har taget med hjem og vil indramme.
 
