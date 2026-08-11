@@ -30,5 +30,12 @@
       <guid>http://localhost:1313/om-siden/</guid>
       <description>&lt;p&gt;This is the about page.&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>Ønskeliste</title>
+      <link>http://localhost:1313/%C3%B8nskeliste/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/%C3%B8nskeliste/</guid>
+      <description>&lt;p&gt;Her er en liste over mine ønsker.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

@@ -1,0 +1,19 @@
+{{ define "main" }}
+<article class="wishlist">
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+  <div class="wishlist-grid">
+    {{ range $.Site.Data.wishlist }}
+    <div class="wishlist-card">
+      <img src="{{ .image }}" alt="{{ .title }}">
+      <div class="wishlist-card-body">
+        <h3>{{ .title }}</h3>
+        <p class="price">{{ .price }}</p>
+        {{ with .note }}<p class="note">{{ . }}</p>{{ end }}
+        <a href="{{ .url }}" target="_blank" class="wishlist-btn">Se ønsket</a>
+      </div>
+    </div>
+    {{ end }}
+  </div>
+</article>
+{{ end }}
