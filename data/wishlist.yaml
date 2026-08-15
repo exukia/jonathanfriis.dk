@@ -31,3 +31,8 @@
   image: "/images/wishlist/gin.png"
   url: "https://gin.com"
   note: "Jeg mangler gin og tonic"
+
+- title: "En ny madkasse"
+  price: "200 kr."
+  image: "/images/wishlist/madkasse.jpg"
+  url: "https://suztain.com/products/suztain-madkasse-stal-1400-ml"
