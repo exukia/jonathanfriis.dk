@@ -1,3 +1,12 @@
+---
+Draft: "true"
+Title: Nyt lir
+Author: Jonathan
+Description: En hyggelig dag på RisRas
+Weight:
+Date: 2026-
+---
+
 ## Nyt lir
 Jeg har brugt sommerens fine vejr på at lege håndværker i mor og fars have. Jeg har gennem processen fået hjælp fra venner, familie, chefer og kolleger. Der var mange overvejelser gennem forløbet, og det endelige projekt er endt med at blive en del anderledes, end hvad jeg havde tænkt til at starte med. Indlægget her er en dagbog over processen, mine overvejelser, priser, produkter anvendt, samt reflektion over projektet i sin helhed.
 
