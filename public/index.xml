@@ -24,6 +24,14 @@
       <description>En hyggelig dag på RisRas</description>
     </item>
     <item>
+      <title></title>
+      <link>http://localhost:1313/dagbog/nyt-skrivebord/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/dagbog/nyt-skrivebord/</guid>
+      <description>&lt;h2 id=&#34;nyt-lir&#34;&gt;Nyt lir&lt;/h2&gt;
+&lt;p&gt;Jeg har brugt sommerens fine vejr på at lege håndværker i mor og fars have. Jeg har gennem processen fået hjælp fra venner, familie, chefer og kolleger. Der var mange overvejelser gennem forløbet, og det endelige projekt er endt med at blive en del anderledes, end hvad jeg havde tænkt til at starte med. Indlægget her er en dagbog over processen, mine overvejelser, priser, produkter anvendt, samt reflektion over projektet i sin helhed.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Om siden</title>
       <link>http://localhost:1313/om-siden/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
