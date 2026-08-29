@@ -4,7 +4,7 @@ Title: Nyt lir
 Author: Jonathan
 Description: En hyggelig dag på RisRas
 Weight:
-Date: 2026-
+Date: 2026-09-03
 ---
 
 ## Nyt lir
