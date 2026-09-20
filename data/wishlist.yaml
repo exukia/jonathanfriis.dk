@@ -46,3 +46,15 @@
   price: "100 kr."
   image: "/images/wishlist/a-short-stay-in-hell.jpg"
   url: "https://www.saxo.com/dk/a-short-stay-in-hell_paperback_9780983748427"
+
+- title: "Dødsstjernen"
+  price: "7799,95 kr."
+  image: "/images/wishlist/dødsstjernen.png"
+  url: "https://www.lego.com/en-dk/product/death-star-75419"
+  note: "Den skal stå på hylden"
+
+- title: "Jango Fett's Firespray-Class Starship"
+  price: "2349,95 kr."
+  image: "/images/wishlist/jango-starship.png"
+  url: "https://www.lego.com/en-dk/product/jango-fetts-firespray-class-starship-75409"
+  note: "Den skal stå lige under dødsstjernen"
