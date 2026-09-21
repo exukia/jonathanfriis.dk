@@ -58,3 +58,10 @@
   image: "/images/wishlist/jango-starship.png"
   url: "https://www.lego.com/en-dk/product/jango-fetts-firespray-class-starship-75409"
   note: "Den skal stå lige under dødsstjernen"
+
+- title: "Rød T-shirt"
+  price: "300 kr."
+  image: "/images/wishlist/rød-tshirt.jpg"
+  url: "https://teeshoppen.dk/products/heavy-oversized-t-shirt-city-red?St%C3%B8rrelse=2XL"
+  note: "Behold kvitteringen, vil gerne prøve den først"
+
