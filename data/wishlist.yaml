@@ -1,25 +1,3 @@
-- title: "Slipsenål"
-  price: "150-250 kr."
-  image: "/images/wishlist/slipsenål.jpg"
-  url: "https://duckduckgo.com/?q=p%C3%A6n%20slipsen%C3%A5l&t=ffab&ia=web"
-  note: "Find en pæn en, jeg er en lille smule indifferent om hvilken det bliver, du skal bare synes den er pæn"
-
-- title: "En ny dyne og pude"
-  price: "400 måske?"
-  image: "/images/wishlist/dyne-og-pude.jpg"
-  url: "https://duckduckgo.com/?q=dyne%20og%20pude&t=ffab&ia=web"
-
-- title: "Illiaden - hard back"
-  price: "ret billig, kan købes brugt"
-  image: "/images/wishlist/illiaden.jpg"
-  url: "https://duckduckgo.com/?t=ffab&q=illiaden%20hard%20back&ia=web"
-
-- title: "trmnl e-ink display"
-  price: "1.000 kr."
-  image: "/images/wishlist/trmnl.png"
-  url: "https://shop.trmnl.com/collections/devices/products/trmnl?variant=51426021343537"
-  note: "En lille skærm til mit skrivebord, som jeg selv kan programmere"
-
 - title: "nye planter"
   price: "hvad du har råd til"
   image: "/images/wishlist/piranha.png"
@@ -64,4 +42,3 @@
   image: "/images/wishlist/rød-tshirt.jpg"
   url: "https://teeshoppen.dk/products/heavy-oversized-t-shirt-city-red?St%C3%B8rrelse=2XL"
   note: "Behold kvitteringen, vil gerne prøve den først"
-
