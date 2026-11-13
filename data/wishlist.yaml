@@ -10,7 +10,7 @@
   url: "https://gin.com"
   note: "Jeg mangler gin og tonic"
 
-- title: "En ny madkasse"
+- title: "En madkasse"
   price: "200 kr."
   image: "/images/wishlist/madkasse.jpg"
   url: "https://suztain.com/products/suztain-madkasse-stal-1400-ml"
@@ -19,6 +19,11 @@
   price: "230 kr."
   image: "/images/wishlist/bagemåtte.png"
   url: "https://www.kitchenone.dk/p/blomsterbergs-bageplade-45x60-cm-silikone_63804/"
+
+- title: "Penalhus"
+  price: "199 kr."
+  image: "penalhus.png"
+  url: "https://www.neye.dk/again-penalhus-ry-id-17140505000/"
 
 - title: "A short stay in hell"
   price: "100 kr."
