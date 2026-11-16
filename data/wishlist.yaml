@@ -25,6 +25,13 @@
   image: "penalhus.png"
   url: "https://www.neye.dk/again-penalhus-ry-id-17140505000/"
 
+- title: "Tastatur"
+  price: "799 kr."
+  image: "tastatur.png"
+  url: "https://www.maxgaming.dk/dk/gaming-tastatur/keychron-k8-he-se-tradlost-qmk-tastatur-gateron-20-purple-magnetic-switch-wood-white"
+
+
+
 - title: "A short stay in hell"
   price: "100 kr."
   image: "/images/wishlist/a-short-stay-in-hell.jpg"
