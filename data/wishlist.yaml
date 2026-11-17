@@ -22,12 +22,12 @@
 
 - title: "Penalhus"
   price: "199 kr."
-  image: "penalhus.png"
-  url: "https://www.neye.dk/again-penalhus-ry-id-17140505000/"
+  image: "/images/wishlist/penalhus.png"
+  url: "https://www.neye.madkasse/again-penalhus-ry-id-17140505000/"
 
 - title: "Tastatur"
   price: "799 kr."
-  image: "tastatur.png"
+  image: "/images/wishlist/tastatur.png"
   url: "https://www.maxgaming.dk/dk/gaming-tastatur/keychron-k8-he-se-tradlost-qmk-tastatur-gateron-20-purple-magnetic-switch-wood-white"
 
 
